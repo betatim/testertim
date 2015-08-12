@@ -1,1 +1,1 @@
-FROM everware/base
+FROM everware/science-python
